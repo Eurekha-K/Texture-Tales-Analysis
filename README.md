@@ -9,14 +9,23 @@ report to share with the wider business
 Wrote queries to find
 
 1.Unique transactions
+
 2.Total sold units
+
 3.Total revenue generation
+
 4.Average unique products purchased
+
 5.Average discount value per transaction
+
 6.the top 3 products by total revenue
+
 7.The total quantity, revenue and discount for each 
 segment
+
 8.The top selling product for each segment
+
 9.the total quantity, revenue and discount for each 
 category
+
 10.The top selling product for each category
